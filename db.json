@@ -7,31 +7,9 @@
       "mobileNo": "182370281",
       "salary": "$4000"
     },
+
     {
       "id": 2,
-      "firstName": "miracle",
-      "lastName": "aghamobi",
-      "email": "miracleaghamobi@gmail.com",
-      "mobileNo": "07084199233"
-    },
-    {
-      "id": 3,
-      "firstName": "miracle",
-      "lastName": "aghamobi",
-      "email": "miracleaghamobi@gmail.com",
-      "mobileNo": "07084199233",
-      "salary": "$35000"
-    },
-    {
-      "id": 4,
-      "firstName": "miracle",
-      "lastName": "aghamobi",
-      "email": "miracleaghamobi@gmail.com",
-      "mobileNo": "07084199233",
-      "salary": "$50000"
-    },
-    {
-      "id": 5,
       "firstName": "kenny",
       "lastName": "more",
       "email": "kenny@live",
