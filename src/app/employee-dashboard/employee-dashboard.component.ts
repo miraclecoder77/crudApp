@@ -18,7 +18,9 @@ export class EmployeeDashboardComponent implements OnInit {
     private ConfigService:ConfigService) { }
   
   openDialog() {
-    this.dialog.open(FormComponent);
+    this.dialog.open(FormComponent).afterClosed().subscribe(val => {
+      return this.getAllEmployee()
+    });
   }
 
 
