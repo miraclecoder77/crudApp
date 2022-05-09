@@ -1,0 +1,26 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "lastName": "kagame",
+      "email": "paulka@example.com",
+      "mobileNo": "182370281",
+      "salary": "$4000"
+    },
+    {
+      "id": 2,
+      "firstName": "miracle",
+      "lastName": "aghamobi",
+      "email": "miracleaghamobi@gmail.com",
+      "mobileNo": "07084199233"
+    },
+    {
+      "id": 3,
+      "firstName": "miracle",
+      "lastName": "aghamobi",
+      "email": "miracleaghamobi@gmail.com",
+      "mobileNo": "07084199233",
+      "salary": "$35000"
+    }
+  ]
+}

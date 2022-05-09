@@ -1,0 +1,20 @@
+#nav {
+    display: flex;
+    background: whitesmoke;
+    max-height: 4rem;
+    width: 100%;
+    padding-top: 1rem;
+    justify-content:space-between;
+    align-items: flex-start;
+}
+.btn:focus, .btn:active {
+    outline: none !important;
+    height: 3rem;
+    box-shadow: none;
+}
+.title {
+    font-size: 2rem;
+    font-weight: 600;
+    font-style:oblique;
+    color: rgb(196, 45, 35);
+}
